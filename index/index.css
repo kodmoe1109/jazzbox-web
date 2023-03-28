@@ -1,0 +1,46 @@
+body{
+    font-family: 思源宋體 !important
+}
+
+header{
+    animation: fadeIn;
+    animation-duration: 0.5s;
+}
+
+#logoImg, #menuItems{
+    animation: fadeIn;
+    animation-duration: 1.5s;
+}
+
+#leftSection, #rightSection{
+    border-style: dotted;
+    margin-top: 5%;
+}
+
+#demoVideo{
+    padding-top: 2%;
+    padding-right: 5%;
+}
+
+#quote{
+    padding-top: 38%;
+    animation: fadeIn;
+    animation-duration: 2s;
+}
+
+figcaption{
+    padding-top: 2%;
+}
+
+#reserveBtn{
+    padding-top: 1%;
+    padding-left: 35%;
+    animation: fadeIn;
+    animation-duration: 2s;
+}
+
+footer{
+    color: white;
+    height: 3%;
+    margin-top: 8%;
+}

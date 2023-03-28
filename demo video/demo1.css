@@ -1,0 +1,44 @@
+body{
+    font-family: 思源宋體 !important
+}
+
+header{
+    animation: fadeIn;
+    animation-duration: 0.5s;
+}
+
+#logoImg, #menuItems{
+    animation: fadeIn;
+    animation-duration: 1.5s;
+}
+
+#leftSection, #rightSection{
+    border-style: dotted;
+    margin-top: 5%;
+}
+
+#receiptSection{
+    border-style: dotted;
+    margin-top: 5%;
+    padding: 5% 5% 5% 5%;
+}
+
+#receiptTitle{
+    border-style: dotted;
+    /* margin-top: 5%; */
+}
+
+#demoVideo{
+    padding-top: 2%;
+    padding-right: 5%;
+}
+
+#noteSection{
+    border-style: dotted;
+}
+
+footer{
+    color: white;
+    height: 3%;
+    margin-top: 8%;
+}

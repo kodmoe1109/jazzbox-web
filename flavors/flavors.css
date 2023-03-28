@@ -1,0 +1,49 @@
+header{
+    animation: fadeIn;
+    animation-duration: 0.5s;
+}
+
+#logoImg, #menuItems{
+    animation: fadeIn;
+    animation-duration: 1.5s;
+}
+
+#leftSection, #rightSection{
+    border-style: dotted;
+    margin-top: 5%;
+}
+
+#demoVideo{
+    padding-top: 2%;
+    padding-right: 5%;
+}
+
+#quote{
+    padding-top: 35%;
+    animation: fadeIn;
+    animation-duration: 2s;
+}
+
+#reserveBtn{
+    padding-top: 3%;
+    padding-left: 33%;
+    animation: fadeIn;
+    animation-duration: 2s;
+}
+
+#aboutTitle{
+    padding-left: 45.5%;
+    margin-top: 10%;
+}
+
+#introduction{
+    margin-top: 3%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+footer{
+    color: white;
+    height: 3%;
+    margin-top: 8%;
+}

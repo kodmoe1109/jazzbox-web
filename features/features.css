@@ -1,0 +1,58 @@
+body{
+    font-family: 思源宋體 !important
+}
+
+header{
+    animation: fadeIn;
+    animation-duration: 0.5s;
+}
+
+body{
+    background-color: black;
+    color: beige;
+}
+
+#logoImg, #menuItems{
+    animation: fadeIn;
+    animation-duration: 1.5s;
+}
+
+#menuImg{
+    /* border-style: dotted; */
+    margin-top: 5%;
+    /* padding-left: 9%; */
+}
+
+#introduction{
+    padding-top: 40%;
+}
+
+#leftSection, #rightSection{
+    border-style: dotted;
+    margin-top: 5%;
+}
+
+#beerImg, #slotImg, #bottleImg{
+    padding-left: 10%;
+}
+
+#aboutDevice1{
+    padding-top: 30%;
+    padding-left: 1%;
+}
+
+#aboutDevice2{
+    padding-top: 27%;
+    padding-left: 1%;
+}
+
+#aboutDevice3{
+    padding-top: 27%;
+    padding-left: 1%;
+}
+
+footer{
+    color: white;
+    height: 3%;
+    margin-top: 8%;
+}
